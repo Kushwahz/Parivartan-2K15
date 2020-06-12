@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Parivartan 2K15</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_second">Events</string>
+    <string name="title_activity_third">Technical Events</string>
+    <string name="title_activity_fourth">Non Technical Events</string>
+    <string name="title_activity_fifth">"Cultural Events "</string>
+    <string name="title_activity_sixth">Registration</string>
+    <string name="title_activity_seventh">Registration</string>
+    <string name="title_activity_eighth">Rules and Regulations</string>
+    <string name="title_activity_ninth">Registration</string>
+    <string name="title_activity_tenth">Technical Events</string>
+    <string name="title_activity_fb">Facebook</string>
+    <string name="title_activity_gp">Google +</string>
+    <string name="title_activity_tw">Twitter</string>
+    <string name="title_activity_attraction">Attractions</string>
+</resources>
