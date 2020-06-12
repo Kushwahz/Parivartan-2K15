@@ -1,6 +1,6 @@
 # Parivartan 2K15
 
-**Timeline | 2014-15** (1st Year - B.Tech Engineering)
+###### Timeline | 2014-15 (Engineering - 1st Year)
 
 A registration based android mobile application. It allow its users to directly register themselves for the College "Parivartan Fest 2015". This app features detailed content about the fest which enable users to enroll themselves for the event. It includes all information regarding technical, non-technical, star attraction and rules regulations. It is fully equipped with the registration form that successfully gathers the data and sends it to the coordinators of Fest.
 
