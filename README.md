@@ -9,6 +9,12 @@ A registration based android mobile application. It allow its users to directly 
 * Easy and flexible management of Participants.
 * Efficient flow of news and other updates of events to the Participants.
 
+### Demonstration
+
+
+![](/Android%20App%20|%20Parivartan%202K15/Parivartan2K15.gif)
+
+
 ### Technology Stack
 * Languages | Java & XML
 * IDE | Android Studio 1.3
@@ -27,8 +33,3 @@ A registration based android mobile application. It allow its users to directly 
  - Google Forms
  - Google Sheets
  - Graphics Editing | Resizing
-
-
-### Demonstration
-
-![](/Android%20App%20|%20Parivartan%202K15/Parivartan2K15.gif)
