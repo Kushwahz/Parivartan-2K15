@@ -9,19 +9,17 @@ A registration based android mobile application. It allow its users to directly 
 * Easy and flexible management of Participants.
 * Efficient flow of news and other updates of events to the Participants.
 
-### Demonstration
-
+## Demonstration
 
 ![](/Android%20App%20|%20Parivartan%202K15/Parivartan2K15.gif)
 
-
-### Technology Stack
+## Technology Stack
 * Languages | Java & XML
 * IDE | Android Studio 1.3
 * Graphics Design | Adobe Photoshop
 * G Suite | Forms, Sheets & Drive
 
-### Implemented Concepts
+## Implemented Concepts
 - Android Components/Features/UI Elements:
   - Intents (Explicit)
   - Overflow Options Menu
